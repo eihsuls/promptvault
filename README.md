@@ -183,15 +183,6 @@ promptvault/
 
 ---
 
-## 🎬 Demo Video
-
-> A walkthrough of browsing prompts, searching, toggling themes, and viewing prompt details.
-
-https://github.com/user-attachments/assets/demo.webp
-
-> **Note**: Replace the link above with your actual uploaded demo video URL after pushing to GitHub. A demo recording is available at `public/screenshots/demo.webp`.
-
----
 
 ## 🚀 Getting Started
 
